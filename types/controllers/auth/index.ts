@@ -1,4 +1,4 @@
-import { UserType } from '../../models/user'
+import { UserType } from '../../models'
 import { ResponseBody } from '../common'
 
 export type SignUpRequestBody = {

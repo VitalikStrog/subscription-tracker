@@ -1,4 +1,4 @@
-import e, { NextFunction, Request, Response } from 'express'
+import { NextFunction, Request, Response } from 'express'
 import { ErrorType } from '../types'
 import CustomError from '../utils/custom-error'
 

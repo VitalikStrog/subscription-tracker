@@ -198,9 +198,12 @@ curl -X POST http://localhost:3000/api/v1/subscriptions \
   -H "Authorization: Bearer <your-token>" \
   -d '{
     "name": "Netflix",
-    "price": 15.99,
-    "billingCycle": "monthly",
-    "nextRenewal": "2024-07-15"
+    "price": 9.99,
+    "currency": "USD",
+    "frequency": "monthly",
+    "category": "entertainment",
+    "startDate": "2025-05-29T00:00:00.000Z",
+    "paymentMethod": "Credit card"
   }'
 ```
 
