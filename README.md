@@ -35,7 +35,6 @@ A Node.js/Express API for managing user subscriptions with automated renewal rem
 - [Usage Examples](#usage-examples)
 - [Development](#development)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 
 ## ✨ Features
 
